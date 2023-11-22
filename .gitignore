@@ -1,0 +1,7 @@
+.env
+env
+doc1.pdf
+doc2.pdf
+
+# Ignore Chroma database
+chroma.sqlite3
