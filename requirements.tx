@@ -1,0 +1,7 @@
+openai
+langchain
+TextLoader
+Docx2txtLoader
+PyPDFLoader
+chromadb
+tiktoken
